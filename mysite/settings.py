@@ -87,10 +87,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'JimeiShen$projectdb',
-        'USER': 'JimeiShen',
-        'PASSWORD': 'SJMsjm33',
-        'HOST': 'JimeiShen.mysql.pythonanywhere-services.com',
+        'NAME': 'Knight9z$projectdb',
+        'USER': 'Knight9z',
+        'PASSWORD': 'Lzh20030114',
+        'HOST': 'Knight9z.mysql.pythonanywhere-services.com',
     }
 }
 
