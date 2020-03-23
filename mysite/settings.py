@@ -89,7 +89,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Knight9z$projectdb',
         'USER': 'Knight9z',
-        'PASSWORD': 'lzh20030114',
+        'PASSWORD': 'Lzh20030114',
         'HOST': 'Knight9z.mysql.pythonanywhere-services.com',
     }
 }
